@@ -6,6 +6,7 @@
 body{
     background: url(./omary.jpg);
     background-size: cover;
+    background-repeat:no-repeat;
     color: black;
 }
 .Form{
